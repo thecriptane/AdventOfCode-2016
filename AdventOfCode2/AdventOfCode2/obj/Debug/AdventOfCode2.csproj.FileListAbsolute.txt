@@ -1,0 +1,6 @@
+C:\Users\Roel\Dropbox\HBO-ICT\P-OIS12\AdventOfCode2\AdventOfCode2\bin\Debug\AdventOfCode2.exe.config
+C:\Users\Roel\Dropbox\HBO-ICT\P-OIS12\AdventOfCode2\AdventOfCode2\bin\Debug\AdventOfCode2.exe
+C:\Users\Roel\Dropbox\HBO-ICT\P-OIS12\AdventOfCode2\AdventOfCode2\bin\Debug\AdventOfCode2.pdb
+C:\Users\Roel\Dropbox\HBO-ICT\P-OIS12\AdventOfCode2\AdventOfCode2\obj\Debug\AdventOfCode2.csprojResolveAssemblyReference.cache
+C:\Users\Roel\Dropbox\HBO-ICT\P-OIS12\AdventOfCode2\AdventOfCode2\obj\Debug\AdventOfCode2.exe
+C:\Users\Roel\Dropbox\HBO-ICT\P-OIS12\AdventOfCode2\AdventOfCode2\obj\Debug\AdventOfCode2.pdb
